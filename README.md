@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Lakshmidevi P M
 
-<!--
-**lakshmidevilakshmidevi689-max/lakshmidevilakshmidevi689-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 Second-Year Computer Science Engineering Student
+- 💻 Passionate about Software Development
+- 🌱 Currently learning Java, Python, SQL, and Data Structures
+- 🎯 Goal: Become a Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+- Java
+- Python
+- C Programming
+- HTML
+- CSS
+- Git & GitHub
+- SQL (Learning)
+- Data Structures (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Web Development
+
+---
+
+## 🚀 Projects
+
+- 🍽️ Food Quality Analysis Dashboard (Python, Streamlit)
+
+---
+
+## 📫 Connect with Me
+
+- - LinkedIn: [Lakshmidevi P M](https://www.linkedin.com/in/lakshmidevi-p-m-307014382/)
+
+
+- GitHub: https://github.com/lakshmidevilakshmidevi689-max
+
+⭐ Thanks for visiting my profile!

@@ -39,7 +39,7 @@
 
 ## 📫 Connect with Me
 
-- - LinkedIn: [Lakshmidevi P M](https://www.linkedin.com/in/lakshmidevi-p-m-307014382/)
+- - LinkedIn: [Lakshmidevi P M](www.linkedin.com/in/lakshmidevi-pm)
 
 
 - GitHub: https://github.com/lakshmidevilakshmidevi689-max

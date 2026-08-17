@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-- 🎓 Second-Year Computer Science Engineering Student
+- 🎓 Third-Year Computer Science Engineering Student
 - 💻 Passionate about Software Development
 - 🌱 Currently learning Java, Python, SQL, and Data Structures
 - 🎯 Goal: Become a Software Engineer
